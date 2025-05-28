@@ -3,6 +3,8 @@ package main
 import(
 	"log"
 
+	"backend/http-server"
+
 	"github.com/hellflame/argparse"
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
